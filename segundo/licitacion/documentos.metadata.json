@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"licitacion.documentos"},{"v":1,"key":{"datecreated":1},"name":"datecreated_1","ns":"licitacion.documentos","background":true,"sparse":true}]}
